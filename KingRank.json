@@ -52,7 +52,7 @@
     "url": "https://example.com/update.apk"
   },
   "blacklist": [
-    "BANNED_DEVICE_ID_1",
+    "9f63653b8ff1a163",
     "BANNED_DEVICE_ID_2"
   ],
   "keys": {
@@ -127,7 +127,7 @@
     "ADMIN_ACCESS": {
       "type": "lifetime",
       "devices": [
-        "9f63653b8ff1a163"
+        ""
       ],
       "notify": false,
       "toast": "👑 Welcome Owner"
