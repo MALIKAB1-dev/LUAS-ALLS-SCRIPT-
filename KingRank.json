@@ -22,7 +22,7 @@
   "users": [
     {
       "username": "admin",
-      "password": "123",
+      "password": "1",
       "expiry_date": "30/12/2030",
       "allowed_devices": [
         "ALL"
