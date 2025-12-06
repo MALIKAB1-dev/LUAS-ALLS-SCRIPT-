@@ -39,11 +39,11 @@
       "success_toast": "Login Successful"
     },
     {
-      "username": "vip",
-      "password": "vip",
+      "username": "MALIK",
+      "password": "1",
       "expiry_date": "01/01/2027",
       "allowed_devices": [
-        "DEVICE_ID_1",
+        "9f63653b8ff1a163",
         "DEVICE_ID_2",
         "DEVICE_ID_3"
       ],
